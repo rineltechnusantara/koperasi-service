@@ -1,1 +1,8 @@
+# .gitignore
+# Secrets
 .env
+
+# Build Artifacts
+tmp/
+*.exe
+*.bin
